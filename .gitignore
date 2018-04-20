@@ -1,0 +1,11 @@
+*.sql
+*.xml
+*.zip
+*.log
+
+/.cache
+/.idea
+/.c9
+/.c9sdk
+
+/node_modules
